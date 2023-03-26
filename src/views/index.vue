@@ -2,7 +2,7 @@
     <div class="header">
         <div class="nav">
             <!-- logo -->
-            <a class="logo" href="index.html">
+            <a class="logo" href="/">
                 <img src="http://cdn2.jianshu.io/assets/web/logo-58fd04f6f0de908401aa561cda6a0688.png">
             </a>
 
