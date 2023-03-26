@@ -20,7 +20,7 @@
             <div class="main">
                 <h4 class="title">
                     <div class="normal-tital">
-                        <RouterLink to="login">登录</RouterLink>
+                        <RouterLink class="active" to="login">登录</RouterLink>
                         <b>·</b>
                         <RouterLink to="register">注册</RouterLink>
                     </div>

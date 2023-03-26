@@ -24,7 +24,8 @@
                     <div class="normal-tital">
                         <RouterLink to="login">登录</RouterLink>
                         <b>·</b>
-                        <RouterLink to="register">注册</RouterLink>
+                        <RouterLink class="active" to="register">注册</RouterLink>
+
                     </div>
                 </h4>
                 <div>
