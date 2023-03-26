@@ -7,6 +7,9 @@
             </a>
 
             <ul class="menu">
+                <div class="phone-menu">
+                    <a href=""><i class="iconfont icon-caidan"></i></a>
+                </div>
                 <li><a href="" class="index"><i class="iconfont icon-compass-copy"></i>&nbsp;首页</a></li>
                 <li class="download-app"><a href=""><i class="iconfont icon-shoujixiazai"></i>&nbsp;下载APP</a></li>
                 <li><a href=""><i class="iconfont icon-huiyuan"></i>&nbsp;会员</a></li>
@@ -30,9 +33,6 @@
                 </li>
                 <li class="write-btn"><a href=""><i class="iconfont icon-bi"></i> 写文章</a></li>
             </ul>
-            <div class="phone-menu">
-                <a href=""><i class="iconfont icon-caidan"></i></a>
-            </div>
         </div>
     </div>
     <div class="main">
