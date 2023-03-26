@@ -88,7 +88,7 @@
             <!-- 推荐作者 -->
             <div class="recommend">
                 <div class="title">推荐作者
-                    <a class="fr" href=""><i class="iconfont icon-huan"></i>换一批</a>
+                    <p class="fr"><i class="iconfont icon-huanyipi "></i>换一批</p>
                 </div>
                 <ul class="list-author">
                     <li v-for="item in itemActor" :key="item.id">
@@ -132,4 +132,4 @@ onMounted(() => {
 })
 </script>
 
-<style lang="scss" scoped></style>
+<style scoped></style>
