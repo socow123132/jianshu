@@ -562,16 +562,18 @@ a.load-more:hover {
 	display: none;
 }
 
-@media screen and (max-width: 1100px) {
+@media screen and (max-width: 1115px) {
 
 	.header,
 	#slider,
-	.content,
-	.sidebar,
 	.main,
 	.footer,
 	.nav {
 		width: 100%;
+	}
+
+	.content {
+		width: 614px;
 	}
 
 	.function {
@@ -582,6 +584,16 @@ a.load-more:hover {
 		display: inline-block;
 	}
 
+}
+
+@media screen and (max-width: 920px) {
+	.content {
+		width: 100%;
+	}
+
+	.sidebar {
+		display: none;
+	}
 }
 
 @media screen and (max-width: 800px) {
