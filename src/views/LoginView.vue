@@ -20,9 +20,9 @@
             <div class="main">
                 <h4 class="title">
                     <div class="normal-tital">
-                        <a class="active" href="login">登录</a>
+                        <RouterLink to="login">登录</RouterLink>
                         <b>·</b>
-                        <a href="register">注册</a>
+                        <RouterLink to="register">注册</RouterLink>
                     </div>
                 </h4>
                 <div>

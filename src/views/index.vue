@@ -22,8 +22,12 @@
 
             <ul class="function">
                 <li class="style-mode-btn"><a href="">Aa</a></li>
-                <li class="login"><a href="login">登录</a></li>
-                <li class="sign-in"><a href="register">注册</a></li>
+                <li class="login">
+                    <RouterLink to="login">登录</RouterLink>
+                </li>
+                <li class="sign-in">
+                    <RouterLink to="register">注册</RouterLink>
+                </li>
                 <li class="write-btn"><a href=""><i class="iconfont icon-bi"></i> 写文章</a></li>
             </ul>
             <div class="phone-menu">
